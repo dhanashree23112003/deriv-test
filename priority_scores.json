@@ -1,0 +1,134 @@
+[
+  {
+    "ticket_id": "T07",
+    "priority_score": 113,
+    "urgency": "critical",
+    "customer_tier": "vip",
+    "mentions_funds_blocked": true,
+    "mentions_regulator_or_legal_threat": true,
+    "requires_specialist_handling": true,
+    "retrieval_weakness": true,
+    "expedited": true
+  },
+  {
+    "ticket_id": "T11",
+    "priority_score": 63,
+    "urgency": "high",
+    "customer_tier": "standard",
+    "mentions_funds_blocked": true,
+    "mentions_regulator_or_legal_threat": false,
+    "requires_specialist_handling": true,
+    "retrieval_weakness": true,
+    "expedited": true
+  },
+  {
+    "ticket_id": "T06",
+    "priority_score": 53,
+    "urgency": "high",
+    "customer_tier": "standard",
+    "mentions_funds_blocked": true,
+    "mentions_regulator_or_legal_threat": false,
+    "requires_specialist_handling": false,
+    "retrieval_weakness": true,
+    "expedited": true
+  },
+  {
+    "ticket_id": "T02",
+    "priority_score": 43,
+    "urgency": "high",
+    "customer_tier": "vip",
+    "mentions_funds_blocked": false,
+    "mentions_regulator_or_legal_threat": false,
+    "requires_specialist_handling": false,
+    "retrieval_weakness": true,
+    "expedited": true
+  },
+  {
+    "ticket_id": "T01",
+    "priority_score": 38,
+    "urgency": "medium",
+    "customer_tier": "standard",
+    "mentions_funds_blocked": true,
+    "mentions_regulator_or_legal_threat": false,
+    "requires_specialist_handling": false,
+    "retrieval_weakness": true,
+    "expedited": true
+  },
+  {
+    "ticket_id": "T05",
+    "priority_score": 21,
+    "urgency": "low",
+    "customer_tier": "standard",
+    "mentions_funds_blocked": false,
+    "mentions_regulator_or_legal_threat": false,
+    "requires_specialist_handling": true,
+    "retrieval_weakness": true,
+    "expedited": false
+  },
+  {
+    "ticket_id": "T04",
+    "priority_score": 18,
+    "urgency": "medium",
+    "customer_tier": "standard",
+    "mentions_funds_blocked": false,
+    "mentions_regulator_or_legal_threat": false,
+    "requires_specialist_handling": false,
+    "retrieval_weakness": true,
+    "expedited": false
+  },
+  {
+    "ticket_id": "T09",
+    "priority_score": 18,
+    "urgency": "medium",
+    "customer_tier": "standard",
+    "mentions_funds_blocked": false,
+    "mentions_regulator_or_legal_threat": false,
+    "requires_specialist_handling": false,
+    "retrieval_weakness": true,
+    "expedited": false
+  },
+  {
+    "ticket_id": "T12",
+    "priority_score": 18,
+    "urgency": "medium",
+    "customer_tier": "standard",
+    "mentions_funds_blocked": false,
+    "mentions_regulator_or_legal_threat": false,
+    "requires_specialist_handling": false,
+    "retrieval_weakness": true,
+    "expedited": false
+  },
+  {
+    "ticket_id": "T03",
+    "priority_score": 11,
+    "urgency": "low",
+    "customer_tier": "standard",
+    "mentions_funds_blocked": false,
+    "mentions_regulator_or_legal_threat": false,
+    "requires_specialist_handling": false,
+    "retrieval_weakness": true,
+    "expedited": false
+  },
+  {
+    "ticket_id": "T08",
+    "priority_score": 11,
+    "urgency": "low",
+    "customer_tier": "standard",
+    "mentions_funds_blocked": false,
+    "mentions_regulator_or_legal_threat": false,
+    "requires_specialist_handling": false,
+    "retrieval_weakness": true,
+    "expedited": false
+  },
+  {
+    "ticket_id": "T10",
+    "priority_score": 11,
+    "urgency": "low",
+    "customer_tier": "standard",
+    "mentions_funds_blocked": false,
+    "mentions_regulator_or_legal_threat": false,
+    "requires_specialist_handling": false,
+    "retrieval_weakness": true,
+    "expedited": false
+  }
+]

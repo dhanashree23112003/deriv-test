@@ -1,0 +1,62 @@
+[
+  {
+    "ticket_id": "T01",
+    "issue": "Low top-article confidence (0.156); second-best score is 0.030 (gap=0.126).",
+    "recommended_improvement": "Expand KB with articles covering this ticket's topic, or add synonyms/tags to improve TF-IDF match coverage."
+  },
+  {
+    "ticket_id": "T02",
+    "issue": "Low top-article confidence (0.197); second-best score is 0.000 (gap=0.197).",
+    "recommended_improvement": "Expand KB with articles covering this ticket's topic, or add synonyms/tags to improve TF-IDF match coverage."
+  },
+  {
+    "ticket_id": "T03",
+    "issue": "Low top-article confidence (0.316); second-best score is 0.132 (gap=0.184).",
+    "recommended_improvement": "Expand KB with articles covering this ticket's topic, or add synonyms/tags to improve TF-IDF match coverage."
+  },
+  {
+    "ticket_id": "T04",
+    "issue": "Low top-article confidence (0.193); second-best score is 0.000 (gap=0.193).",
+    "recommended_improvement": "Expand KB with articles covering this ticket's topic, or add synonyms/tags to improve TF-IDF match coverage."
+  },
+  {
+    "ticket_id": "T05",
+    "issue": "Low top-article confidence (0.329); second-best score is 0.026 (gap=0.304).",
+    "recommended_improvement": "Expand KB with articles covering this ticket's topic, or add synonyms/tags to improve TF-IDF match coverage."
+  },
+  {
+    "ticket_id": "T06",
+    "issue": "Low top-article confidence (0.120); second-best score is 0.018 (gap=0.102).",
+    "recommended_improvement": "Expand KB with articles covering this ticket's topic, or add synonyms/tags to improve TF-IDF match coverage."
+  },
+  {
+    "ticket_id": "T07",
+    "issue": "Low top-article confidence (0.023); second-best score is 0.009 (gap=0.014).",
+    "recommended_improvement": "Expand KB with articles covering this ticket's topic, or add synonyms/tags to improve TF-IDF match coverage."
+  },
+  {
+    "ticket_id": "T08",
+    "issue": "Low top-article confidence (0.284); second-best score is 0.016 (gap=0.268).",
+    "recommended_improvement": "Expand KB with articles covering this ticket's topic, or add synonyms/tags to improve TF-IDF match coverage."
+  },
+  {
+    "ticket_id": "T09",
+    "issue": "Low top-article confidence (0.183); second-best score is 0.012 (gap=0.171).",
+    "recommended_improvement": "Expand KB with articles covering this ticket's topic, or add synonyms/tags to improve TF-IDF match coverage."
+  },
+  {
+    "ticket_id": "T10",
+    "issue": "Low top-article confidence (0.269); second-best score is 0.031 (gap=0.238).",
+    "recommended_improvement": "Expand KB with articles covering this ticket's topic, or add synonyms/tags to improve TF-IDF match coverage."
+  },
+  {
+    "ticket_id": "T11",
+    "issue": "Low top-article confidence (0.031); second-best score is 0.012 (gap=0.019).",
+    "recommended_improvement": "Expand KB with articles covering this ticket's topic, or add synonyms/tags to improve TF-IDF match coverage."
+  },
+  {
+    "ticket_id": "T12",
+    "issue": "Low top-article confidence (0.122); second-best score is 0.000 (gap=0.122).",
+    "recommended_improvement": "Expand KB with articles covering this ticket's topic, or add synonyms/tags to improve TF-IDF match coverage."
+  }
+]

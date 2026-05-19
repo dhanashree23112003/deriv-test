@@ -1,0 +1,102 @@
+[
+  {
+    "ticket_id": "T01",
+    "queues": [
+      "General Support",
+      "Payments"
+    ],
+    "routing_rationale": "Ticket is about a withdrawal issue and mentions funds being blocked, so it should be routed to General Support and Payments queues.",
+    "reply_safety_label": "safe_to_send_after_review"
+  },
+  {
+    "ticket_id": "T02",
+    "queues": [
+      "General Support"
+    ],
+    "routing_rationale": "Ticket is about login access and has a high urgency, so it should be routed to General Support queue.",
+    "reply_safety_label": "safe_to_send_after_review"
+  },
+  {
+    "ticket_id": "T03",
+    "queues": [
+      "General Support"
+    ],
+    "routing_rationale": "Ticket is about verification and has a low urgency, so it should be routed to General Support queue.",
+    "reply_safety_label": "safe_to_send_after_review"
+  },
+  {
+    "ticket_id": "T04",
+    "queues": [
+      "Product"
+    ],
+    "routing_rationale": "Ticket is about product behavior, so it should be routed to Product queue.",
+    "reply_safety_label": "safe_to_send_after_review"
+  },
+  {
+    "ticket_id": "T05",
+    "queues": [
+      "Privacy"
+    ],
+    "routing_rationale": "Ticket is about a privacy request and requires specialist handling, so it should be routed to Privacy queue.",
+    "reply_safety_label": "needs_specialist_review"
+  },
+  {
+    "ticket_id": "T06",
+    "queues": [
+      "General Support",
+      "Payments"
+    ],
+    "routing_rationale": "Ticket is about a deposit issue and mentions funds being blocked, so it should be routed to General Support and Payments queues.",
+    "reply_safety_label": "safe_to_send_after_review"
+  },
+  {
+    "ticket_id": "T07",
+    "queues": [
+      "Compliance",
+      "Risk"
+    ],
+    "routing_rationale": "Ticket is about an account restriction, mentions a regulator or legal threat, and requires specialist handling, so it should be routed to Compliance and Risk queues.",
+    "reply_safety_label": "needs_legal_or_compliance_review"
+  },
+  {
+    "ticket_id": "T08",
+    "queues": [
+      "General Support"
+    ],
+    "routing_rationale": "Ticket is about a statement export, so it should be routed to General Support queue.",
+    "reply_safety_label": "safe_to_send_after_review"
+  },
+  {
+    "ticket_id": "T09",
+    "queues": [
+      "General Support",
+      "Payments"
+    ],
+    "routing_rationale": "Ticket is about a deposit issue, so it should be routed to General Support and Payments queues.",
+    "reply_safety_label": "safe_to_send_after_review"
+  },
+  {
+    "ticket_id": "T10",
+    "queues": [
+      "General Support"
+    ],
+    "routing_rationale": "Ticket is about verification, so it should be routed to General Support queue.",
+    "reply_safety_label": "safe_to_send_after_review"
+  },
+  {
+    "ticket_id": "T11",
+    "queues": [
+      "Risk"
+    ],
+    "routing_rationale": "Ticket is about an account restriction and requires specialist handling, so it should be routed to Risk queue.",
+    "reply_safety_label": "needs_specialist_review"
+  },
+  {
+    "ticket_id": "T12",
+    "queues": [
+      "Developer Support"
+    ],
+    "routing_rationale": "Ticket is about API support, so it should be routed to Developer Support queue.",
+    "reply_safety_label": "safe_to_send_after_review"
+  }
+]

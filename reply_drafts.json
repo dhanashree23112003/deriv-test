@@ -1,0 +1,51 @@
+[
+  {
+    "ticket_id": "T06",
+    "channel": "chat",
+    "draft_reply": "I understand your concern about the deposit not reflecting on our platform despite being debited from your bank account. I'd like to help you with this issue. Can you please confirm your transaction reference details and check if the payment has settled successfully? Some payment methods may take time to reconcile. If the issue persists, we may need to escalate this further with payment evidence. Please try checking again after some time and if the problem continues, we'll be happy to assist you further.",
+    "citations": [
+      "KB03",
+      "KB04"
+    ],
+    "review_gate_note": "This draft reply requires review to ensure it accurately addresses the customer's issue and adheres to our support guidelines before sending."
+  },
+  {
+    "ticket_id": "T07",
+    "channel": "email",
+    "draft_reply": "Dear customer, I understand your concern about the current restriction on your account and the blocking of your funds. I want to assure you that we are taking the necessary steps to review your account. Please note that our specialist team will contact you if more information is needed to complete the review. I appreciate your patience and cooperation during this process. If you have any further questions or concerns, please do not hesitate to reach out to us.",
+    "citations": [
+      "KB07",
+      "KB02"
+    ],
+    "review_gate_note": "This draft reply must be reviewed by a human reviewer to ensure compliance with company policies and knowledge base guidance before sending to the customer."
+  },
+  {
+    "ticket_id": "T02",
+    "channel": "chat",
+    "draft_reply": "I'm sorry to hear that you're experiencing login issues after resetting your password. I understand how urgent this is for you. To help resolve the issue, could you please try a clean login flow on both web and mobile, and if the problem persists, provide me with your platform details? This will help me better assist you.",
+    "citations": [
+      "KB04",
+      "KB10"
+    ],
+    "review_gate_note": "This draft reply requires review to ensure it aligns with our support guidelines before sending to the customer."
+  },
+  {
+    "ticket_id": "T11",
+    "channel": "email",
+    "draft_reply": "Dear customer, I apologize for the inconvenience caused by the suspension of your account. I understand your concern about the reason for this suspension and the safety of your balance. I want to assure you that the security of your account and balance is our top priority. Our specialist team will review your account and may contact you if more information is needed. Please be assured that we are here to help and will work to resolve this matter as soon as possible. Thank you for your patience and understanding.",
+    "citations": [
+      "KB07",
+      "KB02"
+    ],
+    "review_gate_note": "This draft reply must be reviewed to ensure compliance with knowledge base guidelines and company policies before sending to the customer."
+  },
+  {
+    "ticket_id": "T01",
+    "channel": "email",
+    "draft_reply": "Dear customer, thank you for reaching out to us about your pending withdrawal. We apologize for the delay and appreciate your patience. According to our guidelines, withdrawals may be delayed if additional verification or security review is required. We recommend checking whether all requested documents were submitted and whether the chosen payment method is eligible for withdrawal. We will look into this matter further to provide a resolution. Please note that some payment methods can take time to reconcile.",
+    "citations": [
+      "KB01"
+    ],
+    "review_gate_note": "This draft reply must be reviewed by a human agent before sending to ensure it accurately addresses the customer's concern and adheres to our support guidelines."
+  }
+]

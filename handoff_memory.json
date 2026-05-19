@@ -1,0 +1,77 @@
+[
+  {
+    "ticket_id": "T06",
+    "customer_problem_summary": "The customer's deposit failed to reflect on the platform despite being debited from their bank account. They are unsure whether to wait or raise a complaint.",
+    "open_questions": [
+      "Can you please provide the transaction ID or date of the failed deposit?",
+      "What is the exact amount that was debited from your bank account?",
+      "Have you tried checking your account balance or transaction history for any updates?"
+    ],
+    "do_not_say": [
+      "We will immediately refund your money",
+      "This issue will be resolved within a specific timeframe",
+      "You should have contacted us earlier"
+    ],
+    "recommended_next_action": "Investigate the failed deposit transaction and check for any updates on the customer's account balance before responding to the customer."
+  },
+  {
+    "ticket_id": "T07",
+    "customer_problem_summary": "The customer's account is restricted and their funds are blocked, prompting a threat of a formal complaint to the regulator if the issue is not resolved immediately. The customer demands a written explanation for the restriction.",
+    "open_questions": [
+      "What is the reason for the account restriction and funds blockage?",
+      "What specific steps can be taken to resolve the issue today?",
+      "What information is required from the customer to facilitate the resolution process?"
+    ],
+    "do_not_say": [
+      "We can immediately lift the account restriction and unblock your funds.",
+      "This issue will be resolved by the end of the day without any further action.",
+      "You do not need to involve the regulator as we will take care of everything."
+    ],
+    "recommended_next_action": "Escalate the issue to the Compliance and Risk teams for immediate review and provide a written explanation to the customer regarding the account restriction and funds blockage."
+  },
+  {
+    "ticket_id": "T02",
+    "customer_problem_summary": "The customer is unable to log in after resetting their password twice and is receiving an invalid session error on both web and mobile platforms. They need this issue resolved urgently.",
+    "open_questions": [
+      "Can you confirm the exact steps you took to reset your password?",
+      "Have you tried clearing your browser cache and cookies before attempting to log in again?",
+      "Are you using the same device and browser for each login attempt?"
+    ],
+    "do_not_say": [
+      "We will have this fixed immediately",
+      "This is a known issue that we are working on",
+      "You will not experience any further issues after this is resolved"
+    ],
+    "recommended_next_action": "Investigate the customer's account and password reset history to identify the cause of the invalid session error and provide a personalized solution."
+  },
+  {
+    "ticket_id": "T11",
+    "customer_problem_summary": "The customer's account was suspended without a clear reason and they are concerned about the safety of their balance. They need to know the exact reason for the suspension.",
+    "open_questions": [
+      "What specific actions led to the account suspension?",
+      "Is the customer's balance still accessible and safe?",
+      "What steps can the customer take to resolve the issue and regain access to their account?"
+    ],
+    "do_not_say": [
+      "We will immediately lift the suspension",
+      "Your balance is completely safe without further investigation",
+      "This is a standard procedure and you will be notified of the reason later"
+    ],
+    "recommended_next_action": "The agent should escalate the issue to the Risk team for further investigation and review to determine the cause of the suspension and provide a clear explanation to the customer."
+  },
+  {
+    "ticket_id": "T01",
+    "customer_problem_summary": "The customer's withdrawal has been pending for 5 days despite the expected 24-hour processing time. They have already uploaded the required documents.",
+    "open_questions": [
+      "Can you confirm that all necessary documents were received and are in order?",
+      "Have there been any issues or holds on the customer's account that could be causing the delay?",
+      "Is there an estimated time for when the withdrawal will be processed?"
+    ],
+    "do_not_say": [
+      "We will process your withdrawal immediately",
+      "This is the final step and you will receive your funds now",
+      "You will not experience any further delays"
+    ],
+    "recommended_next_action": "Investigate the cause of the withdrawal delay and provide the customer with a clear update on the expected processing time."
+  }
+]
